@@ -12,8 +12,8 @@ Currently there are two implementations of the Acme Air sample application. Each
 
 
 ### Java
-* [Java implementation instructions](http://acmeair.github.io/acmeair)
+* [Java implementation instructions](https://github.com/acmeair/acmeair/blob/master/README.md)
 
 ### Node.js
-* [Node.js implementation instructions](http://acmeair.github.io/acmeair-nodejs)
+* [Node.js implementation instructions](https://github.com/acmeair/acmeair-nodejs/blob/master/README.md)
 
